@@ -1,5 +1,8 @@
 # Game Design and Mobile App Development Class
 
+https://artalogica.itch.io/untitled 
+password: gamedesignclass
+
 ### Inspiration: 
 The story behind this game was a Modern AU of the story of Chang'e and Houyi. 
 
