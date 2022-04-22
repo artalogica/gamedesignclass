@@ -33,3 +33,14 @@ I wanted to take this moral dilemma/curiousity idea and have a modern take on it
 - added audio 
 - clicking allowed/not allowed 
 - fading/scene changes
+
+## Rules of Game Design: 
+1. Mechanics - the mechanics are the point and click in the game, the dialogue & choice options (although there are no choices right now), and the camera movement to see other parts of the scene 
+2. Goals - the goal is to complete the game, and make your final decision on whether or not you will stick with what you know or choose to go to the dream school. 
+3. Rules - you are limited to the screen and your options. 
+4. Components - art, music, colliders 
+5. Narrative/Theme - inspiration section 
+6. Obstacles - your decision 
+
+## Pinterest Inspiration Board 
+https://pin.it/1qETsBQ 
